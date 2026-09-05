@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+  <rect width="800" height="480" fill="#ffffff"/>
+  <text x="400" y="45" font-size="20" font-weight="bold" text-anchor="middle" fill="#212121">电路结构：正极 — A — 灯泡 — B — C — 开关 — D — 负极</text>
+  <!-- 导线 -->
+  <g stroke="#212121" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M120,100 H374"/>
+    <path d="M120,100 V186"/>
+    <path d="M120,206 V320 H520"/>
+    <path d="M426,100 H680 V320 H600"/>
+  </g>
+  <!-- 电源符号 -->
+  <line x1="96" y1="186" x2="144" y2="186" stroke="#212121" stroke-width="3"/>
+  <line x1="108" y1="206" x2="132" y2="206" stroke="#212121" stroke-width="8"/>
+  <text x="152" y="192" font-size="22" font-weight="bold" fill="#1565c0">+</text>
+  <text x="152" y="224" font-size="22" font-weight="bold" fill="#c62828">−</text>
+  <text x="66" y="205" font-size="15" text-anchor="middle" fill="#555555">电源</text>
+  <!-- 灯泡（熄灭，灰色） -->
+  <circle cx="400" cy="100" r="26" fill="#ffffff" stroke="#9e9e9e" stroke-width="3"/>
+  <path d="M381,81 L419,119 M419,81 L381,119" stroke="#9e9e9e" stroke-width="3" fill="none"/>
+  <!-- 开关（断开） -->
+  <circle cx="520" cy="320" r="4.5" fill="#212121"/>
+  <circle cx="600" cy="320" r="4.5" fill="#212121"/>
+  <path d="M520,320 L558,272" stroke="#212121" stroke-width="3" stroke-linecap="round"/>
+  <!-- 节点 -->
+  <circle cx="300" cy="100" r="4.5" fill="#212121"/>
+  <circle cx="490" cy="100" r="4.5" fill="#212121"/>
+  <text x="300" y="72" font-size="17" font-weight="bold" text-anchor="middle" fill="#212121">A</text>
+  <text x="400" y="72" font-size="15" text-anchor="middle" fill="#555555">灯泡</text>
+  <text x="490" y="72" font-size="17" font-weight="bold" text-anchor="middle" fill="#212121">B</text>
+  <text x="520" y="355" font-size="17" font-weight="bold" text-anchor="middle" fill="#212121">C</text>
+  <text x="600" y="355" font-size="17" font-weight="bold" text-anchor="middle" fill="#212121">D</text>
+  <!-- 闭合时电流方向（灰色示意） -->
+  <polygon points="205,93 223,100 205,107" fill="#9e9e9e"/>
+  <polygon points="673,197 687,197 680,215" fill="#9e9e9e"/>
+  <polygon points="215,313 197,320 215,327" fill="#9e9e9e"/>
+  <text x="240" y="132" font-size="13" fill="#9e9e9e">电流方向（闭合时）</text>
+  <text x="400" y="420" font-size="14" text-anchor="middle" fill="#757575">开关闭合时电流方向：正极 → A → 灯泡 → B → C → 开关 → D → 负极</text>
+</svg>

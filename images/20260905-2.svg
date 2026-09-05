@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" font-family="-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+  <rect width="800" height="480" fill="#ffffff"/>
+  <text x="400" y="45" font-size="20" font-weight="bold" text-anchor="middle" fill="#212121">① 开关闭合，电压表接灯泡两端 → 有示数 ≈ 电源电压</text>
+  <!-- 灯泡发光光晕 -->
+  <circle cx="400" cy="100" r="42" fill="#fff2b2" opacity="0.75"/>
+  <!-- 导线 -->
+  <g stroke="#212121" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M120,100 H374"/>
+    <path d="M120,100 V186"/>
+    <path d="M120,206 V320 H520"/>
+    <path d="M426,100 H680 V320 H600"/>
+    <path d="M520,320 H600"/>
+  </g>
+  <!-- 电源符号 -->
+  <line x1="96" y1="186" x2="144" y2="186" stroke="#212121" stroke-width="3"/>
+  <line x1="108" y1="206" x2="132" y2="206" stroke="#212121" stroke-width="8"/>
+  <text x="152" y="192" font-size="22" font-weight="bold" fill="#1565c0">+</text>
+  <text x="152" y="224" font-size="22" font-weight="bold" fill="#c62828">−</text>
+  <text x="66" y="205" font-size="15" text-anchor="middle" fill="#555555">电源</text>
+  <!-- 灯泡（点亮） -->
+  <circle cx="400" cy="100" r="26" fill="#fffde7" stroke="#f9a825" stroke-width="3"/>
+  <path d="M381,81 L419,119 M419,81 L381,119" stroke="#f9a825" stroke-width="3" fill="none"/>
+  <!-- 开关（闭合） -->
+  <circle cx="520" cy="320" r="4.5" fill="#212121"/>
+  <circle cx="600" cy="320" r="4.5" fill="#212121"/>
+  <!-- 节点 -->
+  <circle cx="300" cy="100" r="4.5" fill="#212121"/>
+  <circle cx="490" cy="100" r="4.5" fill="#212121"/>
+  <text x="300" y="72" font-size="17" font-weight="bold" text-anchor="middle" fill="#212121">A</text>
+  <text x="400" y="72" font-size="15" text-anchor="middle" fill="#555555">灯泡</text>
+  <text x="490" y="72" font-size="17" font-weight="bold" text-anchor="middle" fill="#212121">B</text>
+  <text x="520" y="355" font-size="17" font-weight="bold" text-anchor="middle" fill="#212121">C</text>
+  <text x="600" y="355" font-size="17" font-weight="bold" text-anchor="middle" fill="#212121">D</text>
+  <!-- 电压表并联在灯泡两端 -->
+  <g stroke="#212121" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M300,100 V196 H366"/>
+    <path d="M434,196 H490 V100"/>
+  </g>
+  <circle cx="400" cy="196" r="34" fill="#ffffff" stroke="#212121" stroke-width="3"/>
+  <text x="400" y="206" font-size="30" font-weight="bold" text-anchor="middle" fill="#212121">V</text>
+  <text x="400" y="256" font-size="15" font-weight="bold" text-anchor="middle" fill="#2e7d32">读数 ≈ 电源电压</text>
+  <!-- 电流方向（绿色） -->
+  <polygon points="205,93 223,100 205,107" fill="#2e7d32"/>
+  <polygon points="673,197 687,197 680,215" fill="#2e7d32"/>
+  <polygon points="215,313 197,320 215,327" fill="#2e7d32"/>
+  <text x="240" y="132" font-size="15" fill="#2e7d32">电流 I</text>
+  <!-- 底部结论 -->
+  <text x="400" y="398" font-size="15" text-anchor="middle" fill="#2e7d32">回路完整，有电流通过，灯亮</text>
+  <text x="400" y="426" font-size="15" text-anchor="middle" fill="#1565c0">A 连正极一侧（高电势），B 经闭合开关连负极一侧（低电势）</text>
+  <text x="400" y="456" font-size="18" font-weight="bold" text-anchor="middle" fill="#c62828">U_AB ≈ 电源电压 → 电压表有示数 ✔</text>
+</svg>
