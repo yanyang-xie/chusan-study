@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 440" width="470" height="440">
+  <rect x="0" y="0" width="470" height="440" fill="white"/>
+  <g stroke="black" stroke-width="1.6" fill="none">
+    <line x1="70" y1="140.7" x2="408.1" y2="50"/>
+    <line x1="70" y1="140.7" x2="15.7" y2="343.5"/>
+    <line x1="15.7" y1="343.5" x2="205.2" y2="104.4"/>
+    <line x1="15.7" y1="343.5" x2="317.6" y2="388.1"/>
+    <line x1="205.2" y1="104.4" x2="317.6" y2="388.1"/>
+    <line x1="70" y1="140.7" x2="317.6" y2="388.1"/>
+    <line x1="317.6" y1="388.1" x2="408.1" y2="50"/>
+  </g>
+  <g fill="black">
+    <circle cx="70" cy="140.7" r="2.2"/>
+    <circle cx="205.2" cy="104.4" r="2.2"/>
+    <circle cx="408.1" cy="50" r="2.2"/>
+    <circle cx="15.7" cy="343.5" r="2.2"/>
+    <circle cx="317.6" cy="388.1" r="2.2"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="18" fill="black">
+    <text x="48" y="134">A</text>
+    <text x="198" y="92">C</text>
+    <text x="416" y="46">E</text>
+    <text x="2" y="366">B</text>
+    <text x="322" y="412">D</text>
+  </g>
+</svg>
