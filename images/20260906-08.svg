@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 390" width="390" height="390">
+  <rect x="0" y="0" width="390" height="390" fill="white"/>
+  <g stroke="black" stroke-width="1.6" fill="none">
+    <line x1="40" y1="248" x2="280" y2="248"/>
+    <line x1="280" y1="248" x2="160" y2="40"/>
+    <line x1="160" y1="40" x2="40" y2="248"/>
+    <line x1="160" y1="40" x2="100" y2="248"/>
+    <line x1="160" y1="40" x2="310" y2="196"/>
+    <line x1="100" y1="248" x2="310" y2="196"/>
+    <line x1="310" y1="196" x2="220" y2="352"/>
+    <line x1="40" y1="248" x2="220" y2="352"/>
+    <path d="M 209.6 346 L 215.6 335.6 L 226 341.6"/>
+  </g>
+  <g fill="black">
+    <circle cx="40" cy="248" r="2.2"/>
+    <circle cx="280" cy="248" r="2.2"/>
+    <circle cx="160" cy="40" r="2.2"/>
+    <circle cx="100" cy="248" r="2.2"/>
+    <circle cx="310" cy="196" r="2.2"/>
+    <circle cx="220" cy="352" r="2.2"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="18" fill="black">
+    <text x="24" y="244">A</text>
+    <text x="286" y="244">B</text>
+    <text x="152" y="30">C</text>
+    <text x="94" y="270">D</text>
+    <text x="320" y="192">E</text>
+    <text x="230" y="376">F</text>
+  </g>
+</svg>
