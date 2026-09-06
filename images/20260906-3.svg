@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="410" viewBox="0 0 960 410" font-family="Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <rect width="960" height="410" fill="white"/>
+
+  <!-- ============ 图 1：交点 P 落在线段上 ============ -->
+  <g>
+    <text x="235" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">图 1：交点 P 落在线段 KA 上</text>
+    <!-- x 轴 -->
+    <line x1="20" y1="300" x2="445" y2="300" stroke="#333" stroke-width="1.5"/>
+    <polygon points="455,300 443,294 443,306" fill="#333"/>
+    <text x="458" y="305" font-size="13" fill="#333">x</text>
+    <!-- 绿色区间带 -->
+    <line x1="90" y1="300" x2="300" y2="300" stroke="#2e9e44" stroke-width="7" opacity="0.3"/>
+    <!-- 垂直投影虚线 -->
+    <line x1="90" y1="250" x2="90" y2="297" stroke="#999" stroke-width="1" stroke-dasharray="4 3"/>
+    <line x1="181" y1="181" x2="181" y2="297" stroke="#999" stroke-width="1" stroke-dasharray="4 3"/>
+    <line x1="300" y1="90" x2="300" y2="297" stroke="#999" stroke-width="1" stroke-dasharray="4 3"/>
+    <!-- 轴上刻度标签 -->
+    <text x="90" y="320" text-anchor="middle" font-size="13" fill="#333">k</text>
+    <text x="181" y="320" text-anchor="middle" font-size="13" fill="#c0392b">x<tspan dy="3" font-size="9">P</tspan></text>
+    <text x="300" y="320" text-anchor="middle" font-size="13" fill="#333">k/3</text>
+    <!-- 直线 KA 的延长线（虚线） -->
+    <line x1="40" y1="288" x2="360" y2="44" stroke="#1f6fd0" stroke-width="1.2" stroke-dasharray="6 4"/>
+    <!-- 线段 KA（粗实线） -->
+    <line x1="90" y1="250" x2="300" y2="90" stroke="#1f6fd0" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- 定直线 L -->
+    <line x1="60" y1="120" x2="420" y2="300" stroke="#e67e22" stroke-width="2"/>
+    <text x="396" y="278" font-size="14" font-style="italic" fill="#e67e22">L</text>
+    <!-- 点 -->
+    <circle cx="90" cy="250" r="4.5" fill="#1f6fd0"/>
+    <text x="70" y="268" font-size="14" font-weight="bold" fill="#1f6fd0">K</text>
+    <circle cx="300" cy="90" r="4.5" fill="#1f6fd0"/>
+    <text x="308" y="86" font-size="14" font-weight="bold" fill="#1f6fd0">A</text>
+    <circle cx="181" cy="181" r="4.5" fill="#c0392b"/>
+    <text x="189" y="175" font-size="14" font-weight="bold" fill="#c0392b">P</text>
+    <!-- 说明 -->
+    <text x="235" y="352" text-anchor="middle" font-size="13.5" fill="#2e9e44">交点 P 的投影落在绿带 [k, k/3] 内 ⇒ P 在线段上 ⇒ 线段与 L 有交点</text>
+    <text x="235" y="374" text-anchor="middle" font-size="12.5" fill="#666">绿带 = 线段上所有点的横坐标范围</text>
+  </g>
+
+  <!-- ============ 图 2：交点 P 落在延长线上 ============ -->
+  <g transform="translate(490,0)">
+    <text x="235" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">图 2：交点 P 落在 KA 的延长线上</text>
+    <!-- x 轴 -->
+    <line x1="20" y1="300" x2="445" y2="300" stroke="#333" stroke-width="1.5"/>
+    <polygon points="455,300 443,294 443,306" fill="#333"/>
+    <text x="458" y="305" font-size="13" fill="#333">x</text>
+    <!-- 绿色区间带 -->
+    <line x1="170" y1="300" x2="350" y2="300" stroke="#2e9e44" stroke-width="7" opacity="0.3"/>
+    <!-- 垂直投影虚线 -->
+    <line x1="128" y1="171" x2="128" y2="297" stroke="#999" stroke-width="1" stroke-dasharray="4 3"/>
+    <line x1="170" y1="150" x2="170" y2="297" stroke="#999" stroke-width="1" stroke-dasharray="4 3"/>
+    <line x1="350" y1="60" x2="350" y2="297" stroke="#999" stroke-width="1" stroke-dasharray="4 3"/>
+    <!-- 轴上刻度标签 -->
+    <text x="128" y="320" text-anchor="middle" font-size="13" fill="#c0392b">x<tspan dy="3" font-size="9">P</tspan></text>
+    <text x="170" y="320" text-anchor="middle" font-size="13" fill="#333">k</text>
+    <text x="350" y="320" text-anchor="middle" font-size="13" fill="#333">k/3</text>
+    <!-- 直线 KA 的延长线（虚线） -->
+    <line x1="60" y1="205" x2="400" y2="35" stroke="#1f6fd0" stroke-width="1.2" stroke-dasharray="6 4"/>
+    <!-- 线段 KA（粗实线） -->
+    <line x1="170" y1="150" x2="350" y2="60" stroke="#1f6fd0" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- 定直线 L -->
+    <line x1="30" y1="117" x2="364" y2="300" stroke="#e67e22" stroke-width="2"/>
+    <text x="322" y="270" font-size="14" font-style="italic" fill="#e67e22">L</text>
+    <!-- 点 -->
+    <circle cx="170" cy="150" r="4.5" fill="#1f6fd0"/>
+    <text x="150" y="146" font-size="14" font-weight="bold" fill="#1f6fd0">K</text>
+    <circle cx="350" cy="60" r="4.5" fill="#1f6fd0"/>
+    <text x="358" y="56" font-size="14" font-weight="bold" fill="#1f6fd0">A</text>
+    <circle cx="128" cy="171" r="4.5" fill="#c0392b"/>
+    <text x="104" y="168" font-size="14" font-weight="bold" fill="#c0392b">P</text>
+    <!-- 说明 -->
+    <text x="235" y="352" text-anchor="middle" font-size="13.5" fill="#c0392b">交点 P 的投影落在绿带外 ⇒ P 不在线段上 ⇒ 线段与 L 无交点</text>
+    <text x="235" y="374" text-anchor="middle" font-size="12.5" fill="#666">此时整条线段在 L 的同一侧；直线 KA 与 L 的交点在延长线上</text>
+  </g>
+
+  <!-- 图例 -->
+  <text x="480" y="398" text-anchor="middle" font-size="12.5" fill="#444">蓝色粗实线：线段 KA　蓝色细虚线：把 KA 延长成整条直线　橙色：定直线 L　灰色虚线：向 x 轴的垂直投影　绿带：线段上点的横坐标范围（两图均按 k&lt;0 画，此时 k&lt;k/3）</text>
+</svg>
