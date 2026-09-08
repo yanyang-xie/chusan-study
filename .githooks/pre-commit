@@ -1,0 +1,19 @@
+#!/bin/sh
+# 提交前拦截含 GitHub 行内公式渲染问题的 md 文件（开头 $ 前无空白等）。
+# 不依赖任何 AI/人的自觉：只要走 git commit 就会被检查。
+# 修复方法：python3 tools/fix_inline_math.py <文件>，然后重新 git add 再提交。
+files=$(git diff --cached --name-only --diff-filter=ACM | grep '\.md$')
+if [ -z "$files" ]; then
+  exit 0
+fi
+# 故意不加引号：需要按空白拆分成多个路径参数
+out=$(python3 tools/fix_inline_math.py --check $files)
+status=$?
+if [ $status -ne 0 ]; then
+  echo "$out"
+  echo ""
+  echo "❌ 以上 md 文件存在 GitHub 行内公式渲染问题（行内公式开头 \$ 前必须是空白或行首）"
+  echo "   修复：python3 tools/fix_inline_math.py <文件>，然后重新 git add 再 commit"
+  exit 1
+fi
+exit 0
