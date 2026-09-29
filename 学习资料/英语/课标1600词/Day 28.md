@@ -1,0 +1,65 @@
+# 课标1600词 Day 28
+
+来源：`tmp/课标1600词视频/Day 28 （throw~universe）.mp4`。中文在前，英文在后；根据视频画面整理，疑义以原视频为准。
+
+| 中文 | 英文 |
+|---|---|
+| T恤衫，短袖汗衫 | t-shirt |
+| （threw）扔；掷；投 | throw |
+| 雷（声） | thunder |
+| 票；入场券；入场券 | ticket |
+| 整洁的；井井有条的；v收拾；整理 | tidy |
+| 领带；捆；束；绑；系；拴 | tie |
+| 老虎 | tiger |
+| 时间；时期，时代 | time |
+| 极小的；微小的 | tiny |
+| 疲倦的；疲劳的 | tired |
+| （距离整点时间）差⋯；到，对；向；在…之前（动词不定式符号，无词义） | to |
+| 在今天；今天；当今 | today |
+| 豆腐 | tofu |
+| 一起；共同 | together |
+| 坐便器；厕所 | toilet |
+| 西红柿，番茄 | tomato |
+| 在明天；明天；未来 | tomorrow |
+| 吨；（pL.）大量；许多 | ton |
+| 今晚 | tonight |
+| 也；又；太 | too |
+| 牙齿 | tooth |
+| 顶部；表面；（位置、级别等）最高的 | top |
+| 总数；合计；总的；全体的 | total |
+| 感动；触摸；触摸，碰；接触；联系 | touch |
+| 旅行；旅游 | tour |
+| 旅行者；观光者；游客 | tourist |
+| 朝；向；对着 | towards |
+| 塔；塔楼 | tower |
+| 镇；市镇 | town |
+| 玩具 | toy |
+| 贸易；交易；v做买卖；从事贸易；用…进行交换 | trade |
+| 传统 | tradition |
+| 交通；路上行驶的车辆 | traffic |
+| 火车；v训练；培训 | train |
+| 训练：培训 | training |
+| 翻译 | translate |
+| 旅行；游历 | travel |
+| 珠宝；财富 | treasure |
+| 款待；招待；美食；v招待；请（客）；治疗；处理 | treat |
+| 树 | tree |
+| 旅游；旅行 | trip |
+| 问题；苦恼；麻烦：困难 | trouble |
+| 裤子 | trousers |
+| 卡车；货车 | truck |
+| 真的；符合事实的 | true |
+| 信任；信赖；相信 | trust |
+| 真相；实情；事实 | truth |
+| 尝试；努力 | try |
+| 转弯；轮流 | turn |
+| 电视；电视机 | TV |
+| 丑陋的；难看的 | ugly |
+| 伞；雨伞 | umbrella |
+| 舅父；叔父；伯父；姑父；姨父 | uncle |
+| 在…正下方；在…下面 | under |
+| 地下的；地铁 | underground |
+| 理解；明白 | understand |
+| 校服；制服 | uniform |
+| 单元；单位 | unit |
+| 宇宙；万象 | universe |

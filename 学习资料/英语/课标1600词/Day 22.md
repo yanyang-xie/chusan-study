@@ -1,0 +1,67 @@
+# 课标1600词 Day 22
+
+来源：`tmp/课标1600词视频/Day 22（prepare~recent）.mp4`。中文在前，英文在后；根据视频画面整理，疑义以原视频为准。
+
+| 中文 | 英文 |
+|---|---|
+| 准备；使做好准备 | prepare |
+| 现在；礼物；目前的；出席的；呈现；赠送 | present |
+| 负责人；主席；总统：董事长 | president |
+| 按；压；挤；新闻界；印刷机 | press |
+| 压力；压强；挤压 | pressure |
+| 相当；十分；很；漂亮的；可爱的 | pretty |
+| 价格；价值；促销价 | price |
+| 自豪；骄傲：引以；自豪的事物（或人） | pride |
+| 主要的；初级的；小学教育的 | primary |
+| 王子 | prince |
+| 公主 | princess |
+| 印刷；打印 | print |
+| 私人的；私密的 | private |
+| 奖；奖品；奖金 | prize |
+| 很可能；大概 | probably |
+| 困难；难题；问题 | problem |
+| 生产；制造；出产 | produce |
+| 产品；制品；结果 | product |
+| （=programme）节；目；程序：方案；计划 | program |
+| 进步；进展 | progress |
+| 专题研究；项目；方案 | project |
+| 承诺；诺言；v许诺；承诺 | promise |
+| 发音；读法 | pronounce |
+| 正确的；恰当的 | proper |
+| 保护；防护 | protect |
+| 自豪的；骄傲的 | proud |
+| 证明；证实；证明文件 | prove |
+| 提供；供应 | provide |
+| 民众；公众 | public |
+| 出版 | publish |
+| 拉；拖 | pull |
+| 惩罚 | punish |
+| 紫色；紫色的 | purple |
+| 目的；目标；意图 | purpose |
+| 鞭策；督促；推动 | push |
+| 放；置 | put |
+| 质量；品质；人品；才能 | quality |
+| 一刻钟；四分之一 | quarter |
+| 王后；女王 | queen |
+| 问题；v表示疑问；怀疑；提问；质询 | question |
+| 快的；迅速的；时间短暂的 | quick |
+| 安静的；平静的 | quiet |
+| 相当；完全；十；分；非常 | quite |
+| 兔；野兔；家兔 | rabbit |
+| 竞赛；赛跑；速度竞赛 | race |
+| 收音机；无线电广播 | radio |
+| 铁路；铁道 | railway |
+| 雨；雨水；下雨 | rain |
+| 虹；彩虹 | rainbow |
+| 募集；征集；使升高；提高 | raise |
+| 迅速的；快速的 | rapid |
+| 相当；相反；宁可 | rather |
+| 到达；伸手够到 | reach |
+| 读；阅读 | read |
+| 愿意的；准备好的 | ready |
+| 真正的；真实的 | real |
+| 理解；领会；意识到 | realize |
+| 真正地；确实地；（表；示惊讶、怀疑等）真的吗 | really |
+| 原因；动机；理由 | reason |
+| 接待；接受；收到 | receive |
+| 近来的，最近的；近代的 | recent |
