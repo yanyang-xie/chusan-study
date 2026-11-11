@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="700" viewBox="0 0 1040 700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">
+  <rect width="1040" height="700" fill="#ffffff"/>
+
+  <text x="520" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">国家机构体系一览（整体 = 国家机构，其中每一块 = 一个国家机关）</text>
+
+  <!-- 定义框 -->
+  <rect x="40" y="52" width="600" height="56" rx="8" fill="#eef6ff" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="56" y="76" font-size="15" fill="#0f172a"><tspan font-weight="bold">国家机构</tspan>：国家权力运行整套组织的<tspan font-weight="bold">总称（整体）</tspan>，宪法第三章的标题就是它。</text>
+  <text x="56" y="98" font-size="15" fill="#0f172a"><tspan font-weight="bold">国家机关</tspan>：这套体系里<tspan font-weight="bold">一个个具体的部门</tspan>，各有自己的名称、性质和职权。</text>
+
+  <!-- 不属于 -->
+  <rect x="660" y="52" width="340" height="176" rx="8" fill="#fff5f5" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="676" y="76" font-size="15" font-weight="bold" fill="#b91c1c">以下都<tspan font-size="17">不是</tspan>国家机构／国家机关</text>
+  <text x="676" y="100" font-size="14" fill="#3f3f46">· 中国共产党（领导核心，党的机关）</text>
+  <text x="676" y="122" font-size="14" fill="#3f3f46">· 人民政协（爱国统一战线组织）</text>
+  <text x="676" y="144" font-size="14" fill="#3f3f46">· 村委会、居委会（基层群众性自治组织）</text>
+  <text x="676" y="166" font-size="14" fill="#3f3f46">· 工会、共青团、妇联（社会团体）</text>
+  <text x="676" y="188" font-size="14" fill="#3f3f46">· 公立学校、医院（事业单位）、企业</text>
+  <text x="676" y="212" font-size="13" fill="#b91c1c">它们不受宪法第三章"国家机构"设置</text>
+
+  <!-- 全国人大 -->
+  <rect x="150" y="140" width="360" height="66" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+  <text x="330" y="166" text-anchor="middle" font-size="17" font-weight="bold" fill="#14532d">全国人民代表大会</text>
+  <text x="330" y="190" text-anchor="middle" font-size="14" fill="#14532d">最高国家权力机关（常设机关：全国人大常委会）</text>
+
+  <!-- 民主集中制标注 -->
+  <text x="590" y="176" font-size="13" fill="#475569">其他国家机关都由它产生、</text>
+  <text x="590" y="194" font-size="13" fill="#475569">对它负责、受它监督</text>
+
+  <!-- 第二行：国家主席 + 国务院 + 军委 -->
+  <rect x="40" y="272" width="180" height="72" rx="8" fill="#fef9c3" stroke="#eab308" stroke-width="1.5"/>
+  <text x="130" y="298" text-anchor="middle" font-size="15" font-weight="bold" fill="#713f12">中华人民共和国主席</text>
+  <text x="130" y="318" text-anchor="middle" font-size="13" fill="#713f12">国家元首，代表国家</text>
+  <text x="130" y="336" text-anchor="middle" font-size="13" fill="#713f12">（也是一个国家机构）</text>
+
+  <rect x="240" y="272" width="180" height="72" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="330" y="298" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e3a8a">国务院</text>
+  <text x="330" y="318" text-anchor="middle" font-size="13" fill="#1e3a8a">最高国家行政机关</text>
+  <text x="330" y="336" text-anchor="middle" font-size="13" fill="#1e3a8a">= 最高权力机关的执行机关</text>
+
+  <rect x="440" y="272" width="180" height="72" rx="8" fill="#fee2e2" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="530" y="298" text-anchor="middle" font-size="15" font-weight="bold" fill="#7f1d1d">中央军事委员会</text>
+  <text x="530" y="318" text-anchor="middle" font-size="13" fill="#7f1d1d">领导全国武装力量</text>
+  <text x="530" y="336" text-anchor="middle" font-size="13" fill="#7f1d1d">（军事机关）</text>
+
+  <rect x="640" y="272" width="170" height="72" rx="8" fill="#ede9fe" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="725" y="298" text-anchor="middle" font-size="15" font-weight="bold" fill="#4c1d95">国家监察委员会</text>
+  <text x="725" y="318" text-anchor="middle" font-size="13" fill="#4c1d95">最高监察机关</text>
+  <text x="725" y="336" text-anchor="middle" font-size="13" fill="#4c1d95">监督所有公职人员</text>
+
+  <rect x="830" y="272" width="170" height="72" rx="8" fill="#ffedd5" stroke="#f97316" stroke-width="1.5"/>
+  <text x="915" y="292" text-anchor="middle" font-size="15" font-weight="bold" fill="#7c2d12">最高人民法院</text>
+  <text x="915" y="312" text-anchor="middle" font-size="13" fill="#7c2d12">审判机关</text>
+  <text x="915" y="336" text-anchor="middle" font-size="15" font-weight="bold" fill="#7c2d12">最高人民检察院</text>
+  <text x="915" y="356" text-anchor="middle" font-size="13" fill="#7c2d12">法律监督机关</text>
+
+  <!-- 箭头 全国人大 → 各机关 -->
+  <line x1="330" y1="206" x2="130" y2="272" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="330" y1="206" x2="330" y2="272" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="330" y1="206" x2="530" y2="272" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="330" y1="206" x2="725" y2="272" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="330" y1="206" x2="915" y2="272" stroke="#64748b" stroke-width="1.5"/>
+  <text x="340" y="240" font-size="13" fill="#475569">选举／决定产生 · 负责 · 监督</text>
+
+  <!-- 地方层 -->
+  <rect x="40" y="400" width="960" height="112" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="60" y="428" font-size="15" font-weight="bold" fill="#0f172a">地方各级（同级对应设置，宪法第三章第四节、第七节等）</text>
+  <text x="60" y="456" font-size="14" fill="#1e293b">地方各级人民代表大会 = 地方各级国家权力机关（本行政区域内人民行使国家权力）</text>
+  <text x="60" y="480" font-size="14" fill="#1e293b">由它产生、对它负责、受它监督：本级人民政府（行政机关）、监察委员会（监察机关）、</text>
+  <text x="60" y="500" font-size="14" fill="#1e293b">人民法院（审判机关）、人民检察院（法律监督机关）　　※ 民族自治地方的自治机关 = 人大 + 政府</text>
+
+  <line x1="330" y1="344" x2="330" y2="400" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 4"/>
+
+  <!-- 对比条 -->
+  <rect x="40" y="536" width="960" height="130" rx="8" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="60" y="562" font-size="15" font-weight="bold" fill="#14532d">答题时的用词口诀</text>
+  <text x="60" y="588" font-size="14" fill="#1a2e22">① 问"某个组织的性质／职权" → 说「机关」：权力机关、行政机关、监察机关、审判机关、法律监督机关</text>
+  <text x="60" y="612" font-size="14" fill="#1a2e22">② 问"整套体系、各部分之间关系、组织活动原则" → 说「机构」：国家机构实行民主集中制原则</text>
+  <text x="60" y="636" font-size="14" fill="#1a2e22">③ 所有国家机关都是国家机构的组成部分；但"国家机构"不指单个单位，规范说法是"××是国家机关，是国家机构的重要组成部分"</text>
+  <text x="60" y="658" font-size="14" fill="#1a2e22">④ 人大 ≠ 人大制度（前者是国家权力机关/组织，后者是我国的根本政治制度）</text>
+</svg>
